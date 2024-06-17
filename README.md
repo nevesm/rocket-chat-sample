@@ -18,7 +18,7 @@ The databases and cache layer are hosted in the same private subnet as the appli
 
 
 ## How we meet the requirements
-Since we have all the applications instrumented by OpenTelemtry, we simple can monitor these, create dashboards, create alarms and even configure custom events in the applications for some key data like: UserSubscriptionEvent, UserAddedEvent, PaymentEvent and much more.
+Since we have all the applications instrumented by OpenTelemetry, we can simple monitor these, create dashboards, create alarms and even configure custom events in the applications for some key data like: UserSubscriptionEvent, UserAddedEvent, PaymentEvent and much more.
 
 ## Diagram
 ![](/rocket-chat-diagram.png)
